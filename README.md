@@ -1,6 +1,6 @@
-**Nutrition Analysis Project:**
+  #**Nutrition Analysis Project:**
 A simple, data-driven exploration of everyday foods — calories, protein, and even water intake.
-**About the Project:**
+#**About the Project:**
 This repository contains my data analysis notebook where I explore the nutritional profile of different foods using Python and visualizations.
 The goal was to understand how calories, protein, and water content influence healthy eating patterns.
 **What This Project Includes:**
